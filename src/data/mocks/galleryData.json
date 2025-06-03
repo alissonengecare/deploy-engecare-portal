@@ -1,0 +1,45 @@
+{
+  "photos": [
+    {
+      "id": "img001",
+      "url": "/images/mock/obra_fase1_01.jpg",
+      "thumbnailUrl": "/images/mock/obra_fase1_01_thumb.jpg",
+      "phase": 1,
+      "date": "2025-01-20",
+      "description": "Visita ao terreno antes do início."
+    },
+    {
+      "id": "img002",
+      "url": "/images/mock/obra_fase2_01.jpg",
+      "thumbnailUrl": "/images/mock/obra_fase2_01_thumb.jpg",
+      "phase": 2,
+      "date": "2025-03-15",
+      "description": "Equipe de arquitetura apresentando projeto."
+    },
+    {
+      "id": "img003",
+      "url": "/images/mock/obra_fase3_01.jpg",
+      "thumbnailUrl": "/images/mock/obra_fase3_01_thumb.jpg",
+      "phase": 3,
+      "date": "2025-05-10",
+      "description": "Início da fundação."
+    },
+    {
+      "id": "img004",
+      "url": "/images/mock/obra_fase3_02.jpg",
+      "thumbnailUrl": "/images/mock/obra_fase3_02_thumb.jpg",
+      "phase": 3,
+      "date": "2025-05-28",
+      "description": "Estrutura metálica sendo montada."
+    },
+    {
+      "id": "img005",
+      "url": "/images/mock/obra_fase3_03.jpg",
+      "thumbnailUrl": "/images/mock/obra_fase3_03_thumb.jpg",
+      "phase": 3,
+      "date": "2025-06-10",
+      "description": "Alvenaria do térreo em andamento."
+    }
+  ]
+}
+

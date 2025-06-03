@@ -1,0 +1,59 @@
+{
+  "documents": [
+    {
+      "id": "doc001",
+      "name": "Contrato Social - Engecare Ltda.pdf",
+      "category": "Legal",
+      "uploadDate": "2025-01-18",
+      "fileUrl": "/documents/mock/contrato_social.pdf",
+      "fileType": "pdf",
+      "sizeMB": 1.2
+    },
+    {
+      "id": "doc002",
+      "name": "Alvará de Construção - Prefeitura.pdf",
+      "category": "Licenças",
+      "uploadDate": "2025-04-25",
+      "fileUrl": "/documents/mock/alvara_construcao.pdf",
+      "fileType": "pdf",
+      "sizeMB": 0.8
+    },
+    {
+      "id": "doc003",
+      "name": "Projeto Arquitetônico - Planta Baixa Térreo.dwg",
+      "category": "Projetos",
+      "uploadDate": "2025-03-05",
+      "fileUrl": "/documents/mock/planta_terreo.dwg",
+      "fileType": "dwg",
+      "sizeMB": 5.5
+    },
+    {
+      "id": "doc004",
+      "name": "Projeto Hidráulico - Detalhes Sistema Água.pdf",
+      "category": "Projetos",
+      "uploadDate": "2025-03-10",
+      "fileUrl": "/documents/mock/projeto_hidraulico.pdf",
+      "fileType": "pdf",
+      "sizeMB": 2.1
+    },
+    {
+      "id": "doc005",
+      "name": "Contrato Construtora ABC.pdf",
+      "category": "Contratos",
+      "uploadDate": "2025-04-30",
+      "fileUrl": "/documents/mock/contrato_construtora.pdf",
+      "fileType": "pdf",
+      "sizeMB": 0.5
+    },
+    {
+      "id": "doc006",
+      "name": "Relatório de Acompanhamento - Maio 2025.pdf",
+      "category": "Relatórios",
+      "uploadDate": "2025-06-01",
+      "fileUrl": "/documents/mock/relatorio_maio_2025.pdf",
+      "fileType": "pdf",
+      "sizeMB": 1.5
+    }
+  ]
+}
+

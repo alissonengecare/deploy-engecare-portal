@@ -1,0 +1,63 @@
+{
+  "messages": [
+    {
+      "id": "msg001",
+      "timestamp": "2025-05-29T14:30:00Z",
+      "sender": {
+        "id": "user_admin",
+        "name": "Gerente de Projeto (Manus)",
+        "role": "admin"
+      },
+      "recipient": {
+        "id": "user_client",
+        "name": "Dr. Paulo Cliente",
+        "role": "client"
+      },
+      "subject": "Atualização Semanal - 29/05",
+      "body": "Prezado Dr. Paulo, segue a atualização semanal do projeto. A estrutura metálica está 80% concluída e iniciamos a alvenaria do térreo. O relatório fotográfico já está disponível na galeria. Qualquer dúvida, estou à disposição.",
+      "read": false,
+      "attachments": [
+        { "name": "Relatorio_Semanal_2905.pdf", "url": "/documents/mock/relatorio_semanal_2905.pdf" }
+      ]
+    },
+    {
+      "id": "msg002",
+      "timestamp": "2025-05-28T11:00:00Z",
+      "sender": {
+        "id": "user_client",
+        "name": "Dr. Paulo Cliente",
+        "role": "client"
+      },
+      "recipient": {
+        "id": "user_admin",
+        "name": "Gerente de Projeto (Manus)",
+        "role": "admin"
+      },
+      "subject": "Re: Dúvida sobre cronograma financeiro",
+      "body": "Obrigado pelo esclarecimento sobre o fluxo de pagamentos da Fase 3. Entendido.",
+      "read": true,
+      "attachments": []
+    },
+    {
+      "id": "msg003",
+      "timestamp": "2025-05-27T16:00:00Z",
+      "sender": {
+        "id": "user_admin",
+        "name": "Gerente de Projeto (Manus)",
+        "role": "admin"
+      },
+      "recipient": {
+        "id": "user_client",
+        "name": "Dr. Paulo Cliente",
+        "role": "client"
+      },
+      "subject": "Dúvida sobre cronograma financeiro",
+      "body": "Dr. Paulo, sobre sua dúvida no cronograma financeiro, o pagamento X referente à Construtora ABC está programado para 05/06, conforme contrato anexo.",
+      "read": true,
+      "attachments": [
+         { "name": "Contrato Construtora ABC.pdf", "url": "/documents/mock/contrato_construtora.pdf" }
+      ]
+    }
+  ]
+}
+

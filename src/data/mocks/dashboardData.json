@@ -1,0 +1,33 @@
+{
+  "projectSummary": {
+    "progress": 42,
+    "currentPhase": 3,
+    "investment": 1850000,
+    "budget": 5500000,
+    "daysRemaining": 245,
+    "startDate": "2024-12-01",
+    "estimatedEndDate": "2026-06-30"
+  },
+  "nextMilestones": [
+    { "id": "m1", "date": "2025-06-15", "description": "Conclusão da estrutura principal" },
+    { "id": "m2", "date": "2025-06-30", "description": "Início das instalações hidráulicas especiais" },
+    { "id": "m3", "date": "2025-07-10", "description": "Vistoria intermediária da Vigilância Sanitária" },
+    { "id": "m4", "date": "2025-07-25", "description": "Finalização do reboco externo" }
+  ],
+  "recentActivity": [
+    { "id": "a1", "timestamp": "2025-05-28T10:00:00Z", "description": "Relatório fotográfico da Fase 3 adicionado.", "type": "upload" },
+    { "id": "a2", "timestamp": "2025-05-27T15:30:00Z", "description": "Aprovação do aditivo contratual #2.", "type": "approval" },
+    { "id": "a3", "timestamp": "2025-05-26T09:15:00Z", "description": "Início da instalação da rede elétrica no 1º andar.", "type": "progress" }
+  ],
+  "progressByPhase": [
+    { "phase": 1, "name": "Planejamento", "progress": 100 },
+    { "phase": 2, "name": "Licenciamento", "progress": 100 },
+    { "phase": 3, "name": "Construção", "progress": 35 },
+    { "phase": 4, "name": "Equipamentos", "progress": 0 },
+    { "phase": 5, "name": "Equipe", "progress": 0 },
+    { "phase": 6, "name": "Marketing", "progress": 0 },
+    { "phase": 7, "name": "Lançamento", "progress": 0 },
+    { "phase": 8, "name": "Operação Inicial", "progress": 0 }
+  ]
+}
+
